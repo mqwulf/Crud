@@ -1,5 +1,5 @@
 ## CRUD app made in MERN stack
-![Vice](resources/1.png)
+![Vice](resources/pic1.png)
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application allows users to perform basic CRUD operations on a collection of items containing name, email, and age.
 
@@ -14,7 +14,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - React.js: JavaScript library for building user interfaces
 - Node.js: JavaScript runtime environment for server-side logic
 
-![Vice](resources/1.png)
+![Vice](resources/pic2.png)
 
 ## Usage
 - **Start the server: npm run dev **
