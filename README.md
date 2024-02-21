@@ -12,5 +12,5 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 ![Vice](resources/pic2.png)
 
 ## Usage
-- **Start the server: npm run dev **
-- **Start the client: npm start **
+- **Start the server:** ```npm run dev```
+- **Start the client:** ```npm start```
